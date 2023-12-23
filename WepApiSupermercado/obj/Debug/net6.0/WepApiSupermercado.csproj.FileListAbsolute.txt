@@ -1,0 +1,88 @@
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.exe
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.deps.json
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.runtimeconfig.json
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.pdb
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.AssemblyInfo.cs
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets\msbuild.WepApiSupermercado.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets\msbuild.build.WepApiSupermercado.props
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WepApiSupermercado.props
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WepApiSupermercado.props
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\scopedcss\bundle\WepApiSupermercado.styles.css
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.csproj.CopyComplete
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\refint\WepApiSupermercado.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.pdb
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.genruntimeconfig.cache
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\ref\WepApiSupermercado.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Dapper.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Generics.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Utilities.dll
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Utilities.pdb
+C:\Users\user\Desktop\SUPERMERCADO LUZ\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Generics.pdb
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.exe
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.deps.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.runtimeconfig.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\WepApiSupermercado.pdb
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Dapper.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Generics.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Utilities.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Utilities.pdb
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\bin\Debug\net6.0\Generics.pdb
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.csproj.AssemblyReference.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.AssemblyInfoInputs.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.AssemblyInfo.cs
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets\msbuild.WepApiSupermercado.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets\msbuild.build.WepApiSupermercado.props
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WepApiSupermercado.props
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WepApiSupermercado.props
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\scopedcss\bundle\WepApiSupermercado.styles.css
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.csproj.CopyComplete
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\refint\WepApiSupermercado.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.pdb
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\WepApiSupermercado.genruntimeconfig.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\API SUPERMERCADO\WepApiSupermercado\WepApiSupermercado\obj\Debug\net6.0\ref\WepApiSupermercado.dll

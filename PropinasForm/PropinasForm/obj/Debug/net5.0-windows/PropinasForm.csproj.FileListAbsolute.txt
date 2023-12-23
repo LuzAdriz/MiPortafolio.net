@@ -1,0 +1,42 @@
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.exe
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.deps.json
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.runtimeconfig.json
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.runtimeconfig.dev.json
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.dll
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\ref\PropinasForm.dll
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.pdb
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.FrmPropinas.resources
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.csproj.GenerateResource.cache
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.AssemblyInfo.cs
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.dll
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\ref\PropinasForm.dll
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.pdb
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.genruntimeconfig.cache
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\Commons.dll
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\Commons.pdb
+C:\Users\user\Documents\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.csproj.CopyComplete
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.exe
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.deps.json
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.runtimeconfig.json
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.runtimeconfig.dev.json
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.dll
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\ref\PropinasForm.dll
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\PropinasForm.pdb
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\Commons.dll
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\bin\Debug\net5.0-windows\Commons.pdb
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.csproj.AssemblyReference.cache
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.FrmPropinas.resources
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.csproj.GenerateResource.cache
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.AssemblyInfoInputs.cache
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.AssemblyInfo.cs
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.csproj.CopyComplete
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.dll
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\ref\PropinasForm.dll
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.pdb
+C:\Users\user\Documents\proyectos adriana c#\PRUEBA TECNICA\PropinasForm\PropinasForm\obj\Debug\net5.0-windows\PropinasForm.genruntimeconfig.cache

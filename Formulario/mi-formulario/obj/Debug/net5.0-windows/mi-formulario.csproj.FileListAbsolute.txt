@@ -1,0 +1,53 @@
+C:\Users\user\source\repos\mi-formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.exe
+C:\Users\user\source\repos\mi-formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.deps.json
+C:\Users\user\source\repos\mi-formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.runtimeconfig.json
+C:\Users\user\source\repos\mi-formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.runtimeconfig.dev.json
+C:\Users\user\source\repos\mi-formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.dll
+C:\Users\user\source\repos\mi-formulario\mi-formulario\bin\Debug\net5.0-windows\ref\mi-formulario.dll
+C:\Users\user\source\repos\mi-formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.pdb
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.csproj.GenerateResource.cache
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.AssemblyInfo.cs
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.dll
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\ref\mi-formulario.dll
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.pdb
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.genruntimeconfig.cache
+C:\Users\user\source\repos\mi-formulario\mi-formulario\obj\Debug\net5.0-windows\mi_formulario.FrmDocente.resources
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.exe
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.deps.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.runtimeconfig.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.runtimeconfig.dev.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\bin\Debug\net5.0-windows\ref\mi-formulario.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.pdb
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.csproj.AssemblyReference.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi_formulario.FrmDocente.resources
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.csproj.GenerateResource.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.AssemblyInfoInputs.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.AssemblyInfo.cs
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\ref\mi-formulario.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.pdb
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.genruntimeconfig.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.exe
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.deps.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.runtimeconfig.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.runtimeconfig.dev.json
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\bin\Debug\net5.0-windows\mi-formulario.pdb
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.csproj.AssemblyReference.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi_formulario.FrmDocente.resources
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.csproj.GenerateResource.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.AssemblyInfoInputs.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.AssemblyInfo.cs
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\refint\mi-formulario.dll
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.pdb
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\mi-formulario.genruntimeconfig.cache
+C:\Users\user\Documents\DOCUMENTOS ADRIANA\Api Docente\Formulario\mi-formulario\obj\Debug\net5.0-windows\ref\mi-formulario.dll

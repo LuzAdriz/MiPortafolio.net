@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mi-formulario/1.0.0": {
+        "runtime": {
+          "mi-formulario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mi-formulario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

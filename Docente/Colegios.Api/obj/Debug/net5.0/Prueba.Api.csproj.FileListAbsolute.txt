@@ -1,0 +1,88 @@
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.AssemblyInfoInputs.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.AssemblyInfo.cs
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Prueba.Api.exe
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Prueba.Api.deps.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Prueba.Api.runtimeconfig.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Prueba.Api.runtimeconfig.dev.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Prueba.Api.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\ref\Prueba.Api.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Prueba.Api.pdb
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\staticwebassets\Prueba.Api.StaticWebAssets.Manifest.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\staticwebassets\Prueba.Api.StaticWebAssets.xml
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\scopedcss\bundle\Prueba.Api.styles.css
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.RazorTargetAssemblyInfo.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.csproj.CopyComplete
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\ref\Prueba.Api.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.pdb
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.genruntimeconfig.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\MiProyecto.Api - copia\Colegios.Api\obj\Debug\net5.0\Prueba.Api.csproj.AssemblyReference.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Prueba.Api.exe
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Prueba.Api.deps.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Prueba.Api.runtimeconfig.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Prueba.Api.runtimeconfig.dev.json
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Prueba.Api.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\ref\Prueba.Api.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Prueba.Api.pdb
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.csproj.AssemblyReference.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.AssemblyInfoInputs.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.AssemblyInfo.cs
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\staticwebassets\Prueba.Api.StaticWebAssets.Manifest.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\staticwebassets\Prueba.Api.StaticWebAssets.xml
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\scopedcss\bundle\Prueba.Api.styles.css
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.RazorTargetAssemblyInfo.cache
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.csproj.CopyComplete
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\ref\Prueba.Api.dll
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.pdb
+C:\Users\user\Documents\proyectos adriana c#\c# adriana\Docente\Colegios.Api\obj\Debug\net5.0\Prueba.Api.genruntimeconfig.cache
